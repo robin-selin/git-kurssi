@@ -8,6 +8,7 @@ def main():
     # Use a breakpoint in the code line below to debug your script.
     print("Hello World!")
     print("Hello from feature")
+    print("Hello from release")
 
 # Press the green button in the gutter to run the script.
 main()
